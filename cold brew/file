@@ -1,0 +1,14 @@
+<div id="about">
+  <div class="about-text">
+    <h1>About us</h1>
+    <p>
+      -Cold Brew was founded By Mira Smith in the Year 2024 driven By love for
+      coffee and a commitment to share the <br />
+      rich flavour and aromas of experty roasted coffee with our community
+      today, <br />
+      we're proud to serve customers nationwide providing exceptional coffee
+      experience to bring people together
+    </p>
+    <a href="#" class="about-btn">Learn More</a>
+  </div>
+</div>
